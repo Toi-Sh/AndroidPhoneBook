@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="random">#35C00A</color>
+    <color name="greenish">#25CC00</color>
+    <color name="bgC">#E0F2F1</color>
+    <color name="bgCl">#E0F2F1</color>
+    <color name="col">#020202</color>
+    <color name="color">#030000</color>
+    <color name="black">#000000</color>
+    <color name="hinttt">#757575</color>
+    <color name="ffffff">#757575</color>
+    <color name="blackkkkk">#000000</color>
+    <color name="blhin">#757575</color>
+    <color name="fafa">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colo">#000000</color>
+    <color name="whiteness">#FFFFFF</color>
+
+    <array name="colorCodes">
+        <item>#FF0000</item>
+        <item>#FF7F00</item>
+        <item>#FFFF00</item>
+        <item>#7FFF00</item>
+        <item>#00FF00</item>
+        <item>#00FF7F</item>
+        <item>#00FFFF</item>
+        <item>#007FFF</item>
+        <item>#0000FF</item>
+        <item>#7F00FF</item>
+        <item>#FF00FF</item>
+        <item>#FF007F</item>
+    </array>
+</resources>

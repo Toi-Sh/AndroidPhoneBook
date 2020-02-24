@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="recycler_view">Recycler View</string>
+    <string name="the_color">The Color</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="textview">Email</string>
+    <string name="textview2">Phone</string>
+    <string name="create">CREATE</string>
+    <string name="imgvw">imgvw</string>
+    <string name="todo4">TODO</string>
+    <string name="calltxt">Call</string>
+    <string name="callingtxt">Calling...</string>
+    <string name="lala">TODO</string>
+    <string name="tvPhone">Phone</string>
+    <string name="anywhere">Tap anywhere to initiate call</string>
+
+    <string-array name="colorNames">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Chartreuse Green</item>
+        <item>Green</item>
+        <item>Spring Green</item>
+        <item>Cyan</item>
+        <item>Azure</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Magenta</item>
+        <item>Rose</item>
+    </string-array>
+</resources>

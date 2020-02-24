@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="dimenZero">0dp</dimen>
+    <dimen name="spThirty">30sp</dimen>
+    <dimen name="FortySp">406dp</dimen>
+    <dimen name="threeDP">334dp</dimen>
+    <dimen name="wid">281dp</dimen>
+    <dimen name="hiet">213dp</dimen>
+    <dimen name="mar">40dp</dimen>
+    <dimen name="spE">18sp</dimen>
+    <dimen name="Thir">32dp</dimen>
+    <dimen name="splll">18sp</dimen>
+    <dimen name="widddd">215dp</dimen>
+    <dimen name="httt">39dp</dimen>
+    <dimen name="marhttt">8dp</dimen>
+    <dimen name="wwwww">211dp</dimen>
+    <dimen name="ssssss">33dp</dimen>
+    <dimen name="qqqq">215dp</dimen>
+    <dimen name="wwwwwe">36dp</dimen>
+    <dimen name="sfad">18sp</dimen>
+    <dimen name="margpoi">84dp</dimen>
+    <dimen name="fifty">55dp</dimen>
+    <dimen name="forty">45dp</dimen>
+    <dimen name="sixt">16dp</dimen>
+    <dimen name="custsize">45dp</dimen>
+    <dimen name="twori">282dp</dimen>
+    <dimen name="twoseve">273dp</dimen>
+    <dimen name="thiruuii">36sp</dimen>
+    <dimen name="eighty">80dp</dimen>
+    <dimen name="sikl">16dp</dimen>
+    <dimen name="haelo">16dp</dimen>
+    <dimen name="asdfgh">32dp</dimen>
+</resources>

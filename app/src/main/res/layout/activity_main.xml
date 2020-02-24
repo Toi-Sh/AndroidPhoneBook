@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactListActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_example"
+        android:layout_width="@dimen/dimenZero"
+        android:layout_height="@dimen/dimenZero"
+        android:background="#E0F2F1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/FloatButton"
+
+        android:layout_width="@dimen/fifty"
+        android:layout_height="@dimen/forty"
+        android:layout_marginEnd="@dimen/sixt"
+        android:layout_marginRight="@dimen/sixt"
+        android:layout_marginBottom="@dimen/sixt"
+        android:src="@drawable/ic_add_black_24dp"
+        android:tint="@color/white"
+        app:backgroundTint="@color/colorPrimary"
+
+        app:fabCustomSize="@dimen/custsize"
+        app:fabSize="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
